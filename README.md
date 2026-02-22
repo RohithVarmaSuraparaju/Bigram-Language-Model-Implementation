@@ -1,8 +1,7 @@
 # 700771851
 # Rohith Varma S
 
-"""
-README – Bigram Language Model (MLE)
+Bigram Language Model (MLE)
 
 Training Corpus:
 1. "&lt;s&gt; I love NLP &lt;/s&gt;"
@@ -31,4 +30,4 @@ P("&lt;s&gt; I love deep learning &lt;/s&gt;") = 0.1667
 Conclusion:
 The model prefers "&lt;s&gt; I love NLP &lt;/s&gt;"
 because it has higher probability.
-"""
+
